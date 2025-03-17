@@ -1,8 +1,8 @@
-# 📚 Projeto 2: Biblioteca Triple Peaks  
+# 📚 Projeto Extra: How to lean  
 
 ## 📌 Sobre o Projeto  
 
-A **Biblioteca Triple Peaks** é um projeto extra desenvolvido durante o programa de **desenvolvimento web** na **TripleTen**. O objetivo principal do projeto foi aprimorar o conhecimento em **HTML5** e **CSS3**, com foco na estruturação semântica do HTML e no uso de **Flexbox** para a organização do layout.  
+A **how to lean** é um projeto extra desenvolvido durante o programa de **desenvolvimento web** na **TripleTen**. O objetivo principal do projeto foi aprimorar o conhecimento em **HTML5** e **CSS3**, com foco na estruturação semântica do HTML e no uso de **Flexbox** para a organização do layout.  
 
 A página "Aprendendo a Aprender" foi criada com base em um roteiro, com o objetivo de garantir uma interface limpa, funcional e bem estruturada.  
 
